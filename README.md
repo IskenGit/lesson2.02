@@ -25,5 +25,5 @@ Markdown не преобразует текст внутри «сырых»
 
 [Ссылка на файл Help](Help.md)
 
-![logo](https://www.google.com/imgres?q=%D1%87%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20markdown&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F48%2FMarkdown-mark.svg%2F1200px-Markdown-mark.svg.png&imgrefurl=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FMarkdown&docid=tvDzagn4N956vM&tbnid=rg1tcAvVsGl5wM&vet=12ahUKEwjwmLeAoL-GAxUcGBAIHc_6B9oQM3oECBcQAA..i&w=1200&h=738&hcb=2&ved=2ahUKEwjwmLeAoL-GAxUcGBAIHc_6B9oQM3oECBcQAA)
+![logo](https://avatars.dzeninfra.ru/get-zen_doc/5210731/pub_62814c3870a12c0bad538952_62814c4970a12c0bad53b2e7/scale_1200)
 
